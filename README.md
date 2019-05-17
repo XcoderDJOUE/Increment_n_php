@@ -21,7 +21,7 @@ for($h=0; $h < $nbrzero; $h++){
   $va_f .= 0;  
 }
 $va_f .= $preced+1;
-echo $va_f;
+return $va_f;
 }
 
 
