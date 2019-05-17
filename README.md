@@ -27,7 +27,7 @@ echo $va_f;
 
 
 
-**************************initialisation de la function *********************************
+**************************initialisation de la function **********************************
 
 increment_n(9999, 0);
 
